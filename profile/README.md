@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to the public GitHub organization profile for Frostcloud Development, we're an independent group of network, infrastructure, and software engineers that work day and night to provide tools and solutions that are easy to consume by the end user. Join our Discord server for more information, https://discord.com/7FbEQZQ
+
 <!--
 
 **Here are some ideas to get you started:**
