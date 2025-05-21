@@ -10,7 +10,8 @@ At Frostcloud, we believe in clarity, reliability, and empowering developers wit
 * 🔧 Developer-first libraries and APIs
 * 🧠 Experimental projects and community collabs
 
-We’re here to make the cloud friendlier, code smarter, and infrastructure invisible. 🚀
+We’re here to make the cloud friendlier, code smarter, and infrastructure invisible. 
+
 Feel free to explore, contribute, or just follow along — we’re building the future one commit at a time.
 
 ## 👥 For Open Source Contributors:
