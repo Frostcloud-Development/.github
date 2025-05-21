@@ -22,13 +22,12 @@ We're big believers in the power of community. Many of our projects are open to 
 * 🧪 Try our beta tools — Break them, improve them, and help us ship better
 
 ----------------------------------------------------------------
-### rpf2fivem
+## rpf2fivem
   
 rpf2fivem is a tool for converting dlc.rpf vehicles found on https://gta5-mods.com to a FiveM compatible resource folder, that are drag and drop.
 https://github.com/Avenze/rpf2fivem-repository
 
-----------------------------------------------------------------
-### Oahu Roleplay
+## Oahu Roleplay
 
 Oahu Roleplay is a FiveM server that we are the primary developers of, we maintain and develop all resources & gameplay oriented features for the server.
 https://oahuroleplay.com
