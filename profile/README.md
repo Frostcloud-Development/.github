@@ -22,6 +22,12 @@ We're big believers in the power of community. Many of our projects are open to 
 * 🧪 Try our beta tools — Break them, improve them, and help us ship better
 
 ----------------------------------------------------------------
+
+## clip2load
+  
+clip2load is our newest tool in the "2tools" collection as we call it. This tool allows you to automatically strip saved R* Editor clips of escrowed assets.
+https://github.com/Avenze/clip2load-repository
+
 ## rpf2fivem
   
 rpf2fivem is a tool for converting dlc.rpf vehicles found on https://gta5-mods.com to a FiveM compatible resource folder, that are drag and drop.
